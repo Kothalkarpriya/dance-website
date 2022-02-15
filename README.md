@@ -1,2 +1,2 @@
-# dance-website
+# Dance Academy Website
  
