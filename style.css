@@ -128,8 +128,17 @@ body {
     padding:5rem;
     color:var(--color);
 }
+.testimonials{
+    background-image: url(./assets/testimonial-img.jpg);
+    background-attachment: scroll;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    padding: 1rem;
+    margin:1rem;
+}
 .review{
-    padding:0 3rem;
+    padding:0 4rem;
     border: var(--black-grey);
     text-align: justify;
 }
