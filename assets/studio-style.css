@@ -1,0 +1,14 @@
+:root {
+    --color: #F8F9FA;
+    --black: #212529;
+    --text-color: #E9ECEF;
+    --black-grey: #343A40;
+    --border: #ADB5BD;
+    --background-grey: #DEE2E6;
+}
+.pagewrap{
+    padding:1rem;
+    display:flex;
+    flex-direction: column;
+    color:white;
+}
