@@ -247,10 +247,15 @@ body {
         padding: 5rem 0;
     }
 }
+#studio-nav{
+    padding:1rem;
+    display:flex;
+    justify-content: center;
+    font-size: xx-large;
+}
 
 .main-container{
     padding:1rem;
-    margin:1rem;
     color:var(--color);
     display:flex;
     flex-direction: column;
@@ -287,4 +292,20 @@ body {
 .studio-class a{
     text-decoration: none;
     color:var(--black);
+}
+.studio-form{
+    background-image:url(./assets/back-form.jpg);
+    background-attachment: scroll;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.studio-footer{
+    padding:1rem;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    color:var(--color);
+    font-size: large;
 }
